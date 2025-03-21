@@ -137,3 +137,5 @@ error*.json
 .DS*
 
 pypitoken.txt
+
+myenv
